@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 6e64ca8854b40ba49b461594a80f7430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2107184600849990099
+    second: turqsheet_0
+  - first:
+      213: -2721018947297286693
+    second: turqsheet_1
+  - first:
+      213: 1552462078203730133
+    second: turqsheet_2
+  - first:
+      213: 4999957375663643438
+    second: turqsheet_3
+  - first:
+      213: -449697466178319716
+    second: turqsheet_4
+  - first:
+      213: 6704279478188196036
+    second: turqsheet_5
+  - first:
+      213: 4223065805491327233
+    second: turqsheet_6
+  - first:
+      213: -4910971565527859114
+    second: turqsheet_7
+  - first:
+      213: -3191882719997895241
+    second: turqsheet_8
+  - first:
+      213: -6571787187432343091
+    second: turqsheet_9
+  - first:
+      213: 2175365728376445239
+    second: turqsheet_10
+  - first:
+      213: -7610994359427341336
+    second: turqsheet_11
+  - first:
+      213: 1965175129047066206
+    second: turqsheet_12
+  - first:
+      213: 8316069126917317061
+    second: turqsheet_13
+  - first:
+      213: -2982596264279988393
+    second: turqsheet_14
+  - first:
+      213: -7554319900921598942
+    second: turqsheet_15
+  - first:
+      213: -6023095515853085093
+    second: turqsheet_16
+  - first:
+      213: -5469306072301514953
+    second: turqsheet_17
+  - first:
+      213: 3021428977184347206
+    second: turqsheet_18
+  - first:
+      213: 6700213266048632633
+    second: turqsheet_19
+  - first:
+      213: -5120793459722288944
+    second: turqsheet_20
+  - first:
+      213: 7589631498070645003
+    second: turqsheet_21
+  - first:
+      213: 2425996922565940186
+    second: turqsheet_22
+  - first:
+      213: -7302039130151951149
+    second: turqsheet_23
+  - first:
+      213: -4010083408969927693
+    second: turqsheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turqsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab42b758d484540ac3ddfda53e33c2
+      internalID: -2107184600849990099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f9de9f86812f49b11c63c824f0f3a
+      internalID: -2721018947297286693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30799ca8e513541b0e1a5a0bd998d6
+      internalID: 1552462078203730133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db1fbc074451d4ea31efeb2db6a0b0
+      internalID: 4999957375663643438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543fdb2d94446a4798957787514d503
+      internalID: -449697466178319716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f095f144ed42940aaaec25d7580e02
+      internalID: 6704279478188196036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb79b5c35087ec4d8d2895ea20ae8a8
+      internalID: 4223065805491327233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0912958d496aca4d9e5d9b7b614174f
+      internalID: -4910971565527859114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8feb318e7c28d4a8f1774cccb60955
+      internalID: -3191882719997895241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012071728eceb2f4ca9a45d9f03cdff6
+      internalID: -6571787187432343091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e6602787d2024c81fb58a1e33ec0d
+      internalID: 2175365728376445239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3525ca69d307994bb9aba37c1754d46
+      internalID: -7610994359427341336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba6b8d5680e534099803d25e3b6e39
+      internalID: 1965175129047066206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6418b8a7b08540b2a28db9180464d
+      internalID: 8316069126917317061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcbc7e66e88c73428d2530b34bf1c97
+      internalID: -2982596264279988393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b26abf80841d14887c398da9d6a93a
+      internalID: -7554319900921598942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5766c53e882284b8521272f16ccfda
+      internalID: -6023095515853085093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3ec29a1bc3154185e8392a7adbca4
+      internalID: -5469306072301514953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b074985e8d46d2459804713148ade0e
+      internalID: 3021428977184347206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_19
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91d76049ceea44881a6678c31e1765
+      internalID: 6700213266048632633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da4e6f54c30c74e8de41cd6252ea7d
+      internalID: -5120793459722288944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bae98a43a849244927e9a02d2d5a7e
+      internalID: 7589631498070645003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d9421ba76b254fb4a3131e32b724e
+      internalID: 2425996922565940186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc198f8a10b6cec49b573bb91c4e5320
+      internalID: -7302039130151951149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turqsheet_24
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e1cc6acce4d88408d2cb7e7b040cda
+      internalID: -4010083408969927693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89b06c67d3f1ce441b9bc99d7e4f6746
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

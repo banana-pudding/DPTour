@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: d1a180a3aa5255b4bb81a1fff239c507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8883306668743405429
+    second: pinksheet_0
+  - first:
+      213: 7291582693056004544
+    second: pinksheet_1
+  - first:
+      213: 1301747489660384222
+    second: pinksheet_2
+  - first:
+      213: -28232158779265314
+    second: pinksheet_3
+  - first:
+      213: -6526678434891840256
+    second: pinksheet_4
+  - first:
+      213: 5767724375740700011
+    second: pinksheet_5
+  - first:
+      213: -1155824672485952657
+    second: pinksheet_6
+  - first:
+      213: -8651775813737373917
+    second: pinksheet_7
+  - first:
+      213: 6171817113073362302
+    second: pinksheet_8
+  - first:
+      213: -6367980640943584884
+    second: pinksheet_9
+  - first:
+      213: -7230072414876442384
+    second: pinksheet_10
+  - first:
+      213: 7116450489059491521
+    second: pinksheet_11
+  - first:
+      213: 1919262914350886138
+    second: pinksheet_12
+  - first:
+      213: -7298840352229884174
+    second: pinksheet_13
+  - first:
+      213: 3138450951757530465
+    second: pinksheet_14
+  - first:
+      213: 3911259937072432868
+    second: pinksheet_15
+  - first:
+      213: -5973166933142052973
+    second: pinksheet_16
+  - first:
+      213: -3188795649698541333
+    second: pinksheet_17
+  - first:
+      213: 1763856153860359541
+    second: pinksheet_18
+  - first:
+      213: 3198104906730112497
+    second: pinksheet_19
+  - first:
+      213: -3436877877710512993
+    second: pinksheet_20
+  - first:
+      213: 5449897629051506402
+    second: pinksheet_21
+  - first:
+      213: -6931751384614983096
+    second: pinksheet_22
+  - first:
+      213: -4439927015717977351
+    second: pinksheet_23
+  - first:
+      213: -9030730721811766660
+    second: pinksheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinksheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631014adfbb72649a486c419504c321
+      internalID: -8883306668743405429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c469c4a953db546a39c0429578a5bf
+      internalID: 7291582693056004544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c655c7b334c244a29c946a7ed4097
+      internalID: 1301747489660384222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b74930dcbc614fa486e0018dcf22c
+      internalID: -28232158779265314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131fba38598e2c4abfb6c4b34df7ff3
+      internalID: -6526678434891840256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8133263cc68b94ab30dc70fd8694df
+      internalID: 5767724375740700011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 807
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ef08f6227a584280718f03c8e6801
+      internalID: -1155824672485952657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 807
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bded1177050324492ea4d8dbb4ecbf
+      internalID: -8651775813737373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 807
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f5d05618b7234c9ac9e11ee5cc54e
+      internalID: 6171817113073362302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 807
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22720ddd4f269b14d8ec0e7a1f82d3ff
+      internalID: -6367980640943584884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0499c0d5147a30a4a8fbb2184d6fb929
+      internalID: -7230072414876442384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 538
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68fc34d7a06c341a80aec88c0be567
+      internalID: 7116450489059491521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 538
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2aec63bf83c9d40aa9c3a01b7125a4
+      internalID: 1919262914350886138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 538
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa4e68c21b9f0548a049db70d34ae13
+      internalID: -7298840352229884174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 538
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353ee05820ae6c4396895de0ee31d34
+      internalID: 3138450951757530465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ff972e7eab9f4b8b7635cce68f04d
+      internalID: 3911259937072432868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b558e9e4edd7ae459fb8390a7196766
+      internalID: -5973166933142052973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 269
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc747434f5b9c4292881825de490b4
+      internalID: -3188795649698541333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 269
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8458768a1725a4899843cb831e3656
+      internalID: 1763856153860359541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_19
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 269
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9856df9b70b3d4d96f7c94ba9e3e04
+      internalID: 3198104906730112497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a12789013938442bf45eec80163e77
+      internalID: -3436877877710512993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792828ae22696234ea4c31189aeb600e
+      internalID: 5449897629051506402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d36448ff324f41b7d5ed103f7a127
+      internalID: -6931751384614983096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f28594f6e8ab40a2f10e8d6a35da0
+      internalID: -4439927015717977351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinksheet_24
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 269
+        height: 269
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f84821e20b4e4da8956ae40aa85cf
+      internalID: -9030730721811766660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4682c7b49278c664d991a5533bfaf8e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

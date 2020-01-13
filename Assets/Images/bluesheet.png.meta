@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 1a8a7da6ac587b641bb9aa650e96a04c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8943863880695729512
+    second: bluesheet_0
+  - first:
+      213: 4885691238784588804
+    second: bluesheet_1
+  - first:
+      213: 8151799985283517994
+    second: bluesheet_2
+  - first:
+      213: -415097376526571505
+    second: bluesheet_3
+  - first:
+      213: -2741690012833020999
+    second: bluesheet_4
+  - first:
+      213: -2833750390466214924
+    second: bluesheet_5
+  - first:
+      213: -8245817292512368049
+    second: bluesheet_6
+  - first:
+      213: -179965409045364772
+    second: bluesheet_7
+  - first:
+      213: 8845827450129975891
+    second: bluesheet_8
+  - first:
+      213: -784511764897572931
+    second: bluesheet_9
+  - first:
+      213: 5064352796679205845
+    second: bluesheet_10
+  - first:
+      213: 64210632732625407
+    second: bluesheet_11
+  - first:
+      213: -832615335437047734
+    second: bluesheet_12
+  - first:
+      213: 8420698908285850750
+    second: bluesheet_13
+  - first:
+      213: -2582835265179212342
+    second: bluesheet_14
+  - first:
+      213: -7844435704930520853
+    second: bluesheet_15
+  - first:
+      213: -3023753140298020728
+    second: bluesheet_16
+  - first:
+      213: -6834919698666972319
+    second: bluesheet_17
+  - first:
+      213: -7545268484277570375
+    second: bluesheet_18
+  - first:
+      213: 8590784462029503445
+    second: bluesheet_19
+  - first:
+      213: -1576555503044021822
+    second: bluesheet_20
+  - first:
+      213: -7504320277797052346
+    second: bluesheet_21
+  - first:
+      213: -1145354327962664440
+    second: bluesheet_22
+  - first:
+      213: 3137089922536550003
+    second: bluesheet_23
+  - first:
+      213: 3572552143454066556
+    second: bluesheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b133b6b32fb907b4391d4a61617a5d6b
+      internalID: -8943863880695729512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5fb847f09ea54fa0762ef277b9ea1
+      internalID: 4885691238784588804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d557dce29a4b5b4ba6a65b4ce083677
+      internalID: 8151799985283517994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491a8ae65b6cdc43befa3587408d9c9
+      internalID: -415097376526571505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1076
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4556dc188a18147b75275584bea447
+      internalID: -2741690012833020999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf70deee605764c9af3d8847e488e6
+      internalID: -2833750390466214924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17998144b53c1d74faae6281712e17ea
+      internalID: -8245817292512368049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4087c9957bb8b24796d8d77e380ffd5
+      internalID: -179965409045364772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e1028987329b2438424a0c3a786fee
+      internalID: 8845827450129975891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 807
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e66dd2cd905c49ab6da701c4e513f
+      internalID: -784511764897572931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df31ee47a7bd2d47b09c4ba011adecb
+      internalID: 5064352796679205845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a41d8c6ee29244c8bcce23d807f0cb
+      internalID: 64210632732625407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597dc3d745651f74bb9ab60a56bbc98b
+      internalID: -832615335437047734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16434d7af5e06948a7f35e2ec276185
+      internalID: 8420698908285850750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 538
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ad8894c4af4346bf673bb222554b4
+      internalID: -2582835265179212342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cf63161bc65eb499ce5d052359595c
+      internalID: -7844435704930520853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657abaf7735a6d4499c5df320585ab7
+      internalID: -3023753140298020728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73e0ce36184624cb31520aa2f676e7
+      internalID: -6834919698666972319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7173178b180943a372798c9dbe587
+      internalID: -7545268484277570375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 269
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce5b588ae6bc2a42925a3b9333e3921
+      internalID: 8590784462029503445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0b7bcfa771fc42b4af943e5791ded
+      internalID: -1576555503044021822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733cbe609012c8549be7d0a6852ab40c
+      internalID: -7504320277797052346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd920eb5a676d9745816fbce769b0e81
+      internalID: -1145354327962664440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195f094b1efbdd419212f694c47aeb8
+      internalID: 3137089922536550003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d2db86c02afd4889cc31d149ca310
+      internalID: 3572552143454066556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a301db09d5143de4ea99309a0a7a3dc4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
