@@ -1,0 +1,11 @@
+Are you interested in programming and electronics development? Whether you're a future engineer or a teacher, a beginner or an expert, we've got the tools for you. At The Factory, you can try everything from building your own robot to building your own computer or wearable electronic devices. All you need to do is want to learn and explore.
+
+Borrowing our circuits? Be prepared to keep track of lots of small parts. They'll be your responsibility!
+
+Arduino
+Learn first-hand how to use Arduino, a tool that can transform the average desktop computer into a device that can interact with the physical world in a whole new way. Explore this cutting-edge technology with us and expand your software-writing horizons. Our arduino starter kits are designed to get you started quickly and easily on your path of learning electronics. They're designed for everyone, even people with little or no electronics and programming experience. The starter pack has everything you need (except tools) to begin your Arduino journey!
+
+Raspberry Pi
+Raspberry Pi is a versatile, interactive small computer that allows users to explore the ins and outs of computing, including programming with Scratch and Python. Use it for any of your digital maker projects, as it can be used for anything from music machines to weather stations. Choose from our Raspberry Pi model B and Raspberry Pi Zero starter kits.
+
+Check out our website at https://guides.library.unt.edu/factory for more information on the products we offer!

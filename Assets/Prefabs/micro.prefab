@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 5167486404535911532}
   - component: {fileID: 5167486404535911534}
   - component: {fileID: 5167486404535911533}
+  - component: {fileID: 352449731147709052}
+  - component: {fileID: 1279136301995755372}
   m_Layer: 0
   m_Name: micro
   m_TagString: Untagged
@@ -25,9 +27,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5167486404535911507}
-  m_LocalRotation: {x: -0.26430425, y: 0.1552117, z: -0.07664071, w: 0.94877756}
+  m_LocalRotation: {x: -0.26430485, y: 0.15521407, z: -0.076640084, w: 0.948777}
   m_LocalPosition: {x: 0.12, y: 0.166, z: 0.287}
-  m_LocalScale: {x: 0.018, y: 0.018, z: 0.018}
+  m_LocalScale: {x: 0.006, y: 0.006, z: 0.006}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -101,3 +103,30 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &352449731147709052
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167486404535911507}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.6900008, y: 2.69, z: 0.2000001}
+  m_Center: {x: 0, y: 0.0000011324883, z: 0.000011444092}
+--- !u!114 &1279136301995755372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167486404535911507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac3247078fce8f43994fbdf6be82956, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  input: micro.txt
+  changer: {fileID: 0}

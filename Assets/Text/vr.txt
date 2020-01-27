@@ -1,0 +1,7 @@
+Interested in developing for VR? We have an HTC Vive set up for you to use in the Factory at Discovery Park.
+
+VIVE is a first-of-its-kind virtual reality platform developed by HTC and Valve for total immersion in virtual worlds. Using a headset and wireless controllers, you can now explore and interact with VR experiences, apps and games that blur the line between imagination and reality.
+
+Our Vive is connected to a PC capable of playing games in Steam VR and developing for the Vive in many engines such as Unity and Unreal Engine.
+
+You will need your own steam account to play VR games as the Factory does not purchase games or have an account.

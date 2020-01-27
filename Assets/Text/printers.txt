@@ -1,0 +1,22 @@
+3D Printing
+The Factory can print 3D models for you for the low price of $1 per hour of print time. As long as the prints can fit in our printers and aren't any kind of weaponry or other prohibited items, we will happily help you fabricate and prototype your ideas. Please keep in mind that 3D printing is slower than most people assume, especially for larger or more detailed prints, and we handle a fairly large number of print requests, especially around senior design season, so please understand that we can only provide a 5 to 7 business day turn around from submission to pickup. Visit our space to learn how 3D printing works from one of our specialists!
+
+Prepare your STL file
+STL is a common format for the exchange of 3d models. Most modeling software should support this export format.
+
+Upload your file
+Fill out your contact information, select your STL files, supply any notes you'd like us to be aware of, and click submit!
+Note: Notes would be filament color preferences, special modifications, stands vs. no-stands, or if you'd like us to contact you before evaluating your model.
+
+We evaluate your model
+We check your model for fitness to print.
+Approved models will be accompanied by an estimate and payment URL.
+
+Follow the link to pay
+Use the URL provided in the email to pay for your model to be printed.
+
+We print your model
+Your model will be printed as soon as a printer is available. When it's complete, you will be notified by email.
+
+You pick it up at The Factory
+Come to The Factory during normal working hours to pick up your print!

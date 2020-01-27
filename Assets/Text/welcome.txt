@@ -1,0 +1,17 @@
+Welcome to the factory!
+
+The UNT Libraries' makerspace, The Factory, promotes the cooperative and creative use of technology. We provide the UNT community including faculty, staff, and currently enrolled students with access to equipment, software, and training that promotes innovative, cross-disciplinary learning. The Factory will host numerous workshops at one of our locations in Willis Library or Discovery Park this semester to help you get familiar with the great tools available for use.
+
+The Factory offers assistance with learning how to use resources but we are not authorized to develop code or projects for individuals. We are here to help you and offer the following types of support.
+
+Factory Resources Consultation
+A consultation is a 30-60 minute session with a Knowledge Specialist. In this session, you are expected to present the project concept/question so the Knowledge Specialist can highlight resources and offer suggestions to assist you in accomplishing your project goal.
+
+Training Session
+Training is a 60-minute session with a Knowledge Specialist that will train you on safety standards, proper use of equipment/software, and Factory use guidelines. Some equipment*/software may take more than one session. *You will sign a contract after your training session for future use on The Factory’s equipment.
+
+Work Request (Required for Lasercutter, CNC, Embroidery)
+Do you have everything ready to complete your project? You should have a file created in the proper format, approved materials, and you will need to schedule a session with a Knowledge Specialist to complete the cut/scan.
+
+3D Printing
+To have files 3D printed, please visit our website at https://guides.library.unt.edu/factory and click the link to submit an stl file. We change only one dollar per hour of printing time, and our time to complete a print is usually 5 to 7 business days.
